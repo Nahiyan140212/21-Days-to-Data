@@ -1,0 +1,11 @@
+Day 2 of #21DaysToData
+
+Today's task is to describe four types of data analytics. Those are
+
+1. Descriptive Analytics: This analytics statistically looks at the occurrence that occurred historically and tries to understand the summary indicator. For example, if we consider the electricity bill for the last five years, we will be able to find a trend of the high bill during summer whereas the low bill during winter and moderate bill during spring. If the question is "What happened?", the answer we will get is by descriptive analysis.
+
+2. Diagnostic Analysis: Although the analytic process is the same as descriptive analytics, we are one step ahead in this case by finding the answer to the question, "Why did it happen?" from the trend. For instance, we can say, our household billed high during summer as there was much electricity consumption because of scorching heat.
+
+3. Predictive Analytics: When we need to get the answer to the question, "What will happen?", here comes this analytics. This is mainly to create some model that can predict what will happen in the upcoming days or months based on the past data. We can create some machine learning model to predict this. An example could be, that we can predict the electricity bill for next summer based on previous data.
+
+4. Prescriptive Analytics: Now we have the prediction, based on this we can decide what to do next. We can save some money as we already know the electricity bill will be 3 times higher in the next couple of months during summer.
