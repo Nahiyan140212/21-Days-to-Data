@@ -1,0 +1,12 @@
+
+
+Day 5 of #21DaystoData
+Today we have explored the NYC Crime dataset based on different feature columns as a part of descriptive analysis using google sheet
+
+In our actual dataset, there were no Days mentioned. So, we extracted the days from the date and create a separate column to see the crime occurrence on weekends and weekdays. We have found that most of the crimes took place on weekends, however, the crimes on weekdays are greater than those on weekends.
+
+Another insight was there about crime attempts is that only 2% of the crime initiated couldn't be completed.
+
+I used OpenRefine to do further analysis, as I found google sheet is pretty much slow. In openRefine software, I found that 3156 suspects were female and 10205 were male. On the other hand, there was 11884 victim who was female and 11669 were male.
+
+Finally, the highest crime rate in Brooklyn is 29%, and the lowest rate in Staten Island is 3.33%.
