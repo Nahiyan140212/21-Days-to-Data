@@ -19,7 +19,7 @@ ORDER BY CAST(h AS unsigned) ASC
 --This line of code shows the number of crime for each hour.
 
 --A crime was happend in late March, 2018 which was a burglary at a chair store in the Bronx. Get the Date, Time, Latitude and Longitude of the crime location.
-SELECT CMPLNT_TO_DT, CMPLNT_TO_TM, Longitude, Latitude  
+SELECT CMPLNT_TO_DT, CMPLNT_FR_TM, Longitude, Latitude  
 FROM 'data_district_crime'  
 WHERE BORO_NM  LIKE 'Bronx' 
 AND OFNS_DESC LIKE 'burglary' 
